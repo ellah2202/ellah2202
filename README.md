@@ -14,13 +14,13 @@
 
 ---
 
-## 🧬 À propos de moi
+##  À propos de moi
 
 Je combine **compétences techniques** (bas niveau en C, DevOps, dev web moderne) et une **vraie expérience terrain** en relation client. J'aime les défis, je m'adapte vite aux environnements exigeants, et je cherche toujours à livrer un travail solide et fiable. 🚀
 
 ---
 
-## 🛠️ Stack technique
+##  Stack technique
 
 <div align="center">
 
@@ -59,13 +59,13 @@ Je combine **compétences techniques** (bas niveau en C, DevOps, dev web moderne
 
 ---
 
-## 🎯 Projets phares — École 42
+##  Projets phares — École 42
 
 <table>
 <tr>
 <td width="50%">
 
-### 🐚 Minishell
+###  Minishell
 Shell UNIX complet développé en **C**, avec parsing avancé, gestion des **pipes** et **redirections**, traitement des signaux et gestion fine de la **mémoire**.
 
 `#C` `#UNIX` `#SystemProgramming`
@@ -73,7 +73,7 @@ Shell UNIX complet développé en **C**, avec parsing avancé, gestion des **pip
 </td>
 <td width="50%">
 
-### 🎮 Cub3D
+###  Cub3D
 Mini moteur 3D avec **raycasting** : lancer de rayons, calculs vectoriels précis, gestion de caméra et rendu interactif en temps réel.
 
 `#C` `#Raycasting` `#Graphics`
@@ -83,7 +83,7 @@ Mini moteur 3D avec **raycasting** : lancer de rayons, calculs vectoriels préci
 <tr>
 <td width="50%">
 
-### 🐳 Inception
+###  Inception
 Initiation au **DevOps** : conteneurisation complète avec Dockerfiles, docker-compose, isolation des services, configuration réseau et volumes.
 
 `#Docker` `#DevOps` `#Infra`
@@ -91,7 +91,7 @@ Initiation au **DevOps** : conteneurisation complète avec Dockerfiles, docker-c
 </td>
 <td width="50%">
 
-### 🌐 ft_transcendence
+###  ft_transcendence
 Application web **full-stack**. Rôle de **Product Owner** (vision produit, priorisation du backlog) + développement API, backend et frontend.
 
 `#FullStack` `#API` `#ProductOwnership`
@@ -102,7 +102,7 @@ Application web **full-stack**. Rôle de **Product Owner** (vision produit, prio
 
 ---
 
-## 📊 Mes stats GitHub
+##  Mes stats GitHub
 
 <div align="center">
 
@@ -112,7 +112,7 @@ Application web **full-stack**. Rôle de **Product Owner** (vision produit, prio
 
 ---
 
-## 📬 Me contacter
+##  Me contacter
 
 <div align="center">
 
